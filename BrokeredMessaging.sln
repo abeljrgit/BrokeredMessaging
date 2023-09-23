@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokeredMessaging.Receiver", "BrokeredMessaging.Receiver\BrokeredMessaging.Receiver.csproj", "{BB595EBC-CCEE-45E5-9509-A0CC9E4E9A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokeredMessaging.Sender", "BrokeredMessaging.Sender\BrokeredMessaging.Sender.csproj", "{5F7E8F90-BD65-4C93-9C09-4C633B2B3004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB595EBC-CCEE-45E5-9509-A0CC9E4E9A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB595EBC-CCEE-45E5-9509-A0CC9E4E9A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB595EBC-CCEE-45E5-9509-A0CC9E4E9A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB595EBC-CCEE-45E5-9509-A0CC9E4E9A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7E8F90-BD65-4C93-9C09-4C633B2B3004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7E8F90-BD65-4C93-9C09-4C633B2B3004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7E8F90-BD65-4C93-9C09-4C633B2B3004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7E8F90-BD65-4C93-9C09-4C633B2B3004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F40EE63-AFCD-467C-9B11-C5C19653052A}
+	EndGlobalSection
+EndGlobal
